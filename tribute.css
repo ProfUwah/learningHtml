@@ -1,0 +1,23 @@
+body {
+    background-color:azure
+}
+
+h1 {
+    color:red;
+    background-color:aliceblue;
+    column-gap: 0cm;
+    row-gap: 0cm;
+    white-space: 0cm;
+
+}
+
+.charles {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    color:red;
+    background-color:aliceblue;
+
+}
